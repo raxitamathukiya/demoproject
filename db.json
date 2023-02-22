@@ -1,0 +1,50 @@
+{
+    "gadget":[
+        [
+            {
+              "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZd-5-T51SA0mQPF2xa8kfyTcMvH1j9BbNCQ&usqp=CAU",
+              "book_name": "Avengers Assemble",
+              "author": "Thor",
+              "genre": "Science",
+              "edition": "2020",
+              "publisher": "mavel",
+              "cost": "700000",
+              "borrowed": false,
+              "id": 1
+            },
+            {
+              "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx7W58LF6t25YeJst4kQZGwxuyFhpCjGSHLA&usqp=CAU",
+              "book_name": "Avengers Assemble-2",
+              "author": "Anshu 2",
+              "genre": "Science",
+              "edition": "2021",
+              "publisher": "Anshumaan",
+              "cost": "50000",
+              "borrowed": false,
+              "id": 2
+            },
+            {
+              "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8m80iNb6Sw0JQD2Xjd6jGVjm4R9sdkgBAjA&usqp=CAU",
+              "book_name": "Mission Impossible",
+              "author": "johnny deep",
+              "genre": "History",
+              "edition": "2022",
+              "publisher": "Joe harethan",
+              "cost": "5000",
+              "borrowed": false,
+              "id": 3
+            },
+            {
+              "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5xAw_kvP37r3jmN55O_dbkvj70rBDac9DyQ&usqp=CAU",
+              "book_name": "Ironman-3",
+              "author": "tony stark",
+              "genre": "Tech",
+              "edition": "2021",
+              "publisher": "marvel",
+              "cost": "6000",
+              "borrowed": false,
+              "id": 4
+            }
+          ]
+    ]
+}
